@@ -1,8 +1,56 @@
+/* Fonts and typefaces */
+@font-face {
+    font-family: "Caracteres L4";
+    src: url("/assets/fonts/Caracteres_L4.ttf") format("truetype");
+}
+
 @font-face {
     font-family: "Caracteres L1";
     src: url("/assets/fonts/Caracteres_L1.ttf") format("truetype");
 }
 
-body {
-    font-family: "Caracteres L1";
+/* Definitions of website elements */
+.sidebar {
+    position: fixed;
+    top: 5%;
+    left: 0;
+    padding-left: 1%;
+}
+
+.sidebar_menu_item {
+    left: 0;
+    padding-left: 5%;
+    font-family: Avenir;
+}
+
+.main {
+    left: 0;
+    padding-top: 2.5%;
+    padding-left: 25%;
+}
+
+.header {
+    text-align: center;
+}
+
+.footer {
+    bottom: 0;
+    position: absolute;
+}
+
+/* Text content manipulation */
+.small-caps {
+    font-variant: small-caps;
+}
+
+h1 {
+    font-family: Avenir, bold;
+}
+
+h2 {
+    font-family: Avenir;
+}
+
+p {
+    font-family: Avenir;
 }
