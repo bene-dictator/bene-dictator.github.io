@@ -3,6 +3,6 @@
     src: url("/assets/fonts/Caracteres_L1.ttf") format("truetype");
 }
 
-p {
+body {
     font-family: "Caracteres L1";
 }
