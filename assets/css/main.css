@@ -1,14 +1,3 @@
-/* Fonts and typefaces */
-@font-face {
-    font-family: "Caracteres L4";
-    src: url("/assets/fonts/Caracteres_L4.ttf") format("truetype");
-}
-
-@font-face {
-    font-family: "Caracteres L1";
-    src: url("/assets/fonts/Caracteres_L1.ttf") format("truetype");
-}
-
 /* Definitions of website elements */
 .sidebar {
     position: fixed;
