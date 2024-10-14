@@ -36,7 +36,7 @@
 .footer {
     bottom: 0;
     padding-left: 12.5%;
-    font-variant: italic, bold;
+    font-family: Avenir, italic, bold;
 }
 
 img {
@@ -61,5 +61,6 @@ li {
 }
 
 h3 {
+    text-align: right;
     font-family: Avenir, italic;
 }
