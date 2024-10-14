@@ -35,7 +35,8 @@
 
 .footer {
     bottom: 0;
-    padding-left: 12.5%
+    padding-left: 12.5%;
+    font-variant: italic, bold;
 }
 
 img {
@@ -57,4 +58,8 @@ h2,
 p,
 li {
     font-family: Avenir;
+}
+
+h3 {
+    font-family: Avenir, italic;
 }
