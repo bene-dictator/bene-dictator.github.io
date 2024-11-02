@@ -1,12 +1,12 @@
 /* Definitions of website elements */
-.sidebar {
+.navigation {
     position: fixed;
     top: 5%;
     left: 0;
     padding-left: 1%;
 }
 
-.sidebar_menu_item {
+.navigation_menu_item {
     left: 0;
     padding-left: 5%;
     font-family: Avenir;
