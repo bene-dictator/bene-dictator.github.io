@@ -23,6 +23,8 @@
 footer {
     bottom: 0;
     font-family: Avenir, bold, italic;
+    padding: 5px;
+    background-color: lightgrey;
 }
 
 img {
